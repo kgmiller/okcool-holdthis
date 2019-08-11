@@ -1,0 +1,13 @@
+{
+  "name": "okcool-holdthis",
+  "version": "0.0.1",
+  "description": "A really fast LFU memory cache based on average frequency that runs in O(1) time.",
+  "main": "src/okcool-holdthis.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
